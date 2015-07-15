@@ -1,6 +1,7 @@
 # Todo
 Breakdown tasks and create issues then link issues to tasks.
 
+## Infrastructure
 **Setup code repositories**
   * API
   * Dev Hub
@@ -10,8 +11,6 @@ Breakdown tasks and create issues then link issues to tasks.
   * Contributor
   * Admin
   * Read Only
-
-**Prepare repository contribution process**
 
 **Add users to proper repository groups**
 
@@ -46,6 +45,12 @@ Breakdown tasks and create issues then link issues to tasks.
   * API
   * Dev Hub
   * USA Spending
+
+## Development
+
+**Design Elasticsearch schema**
+
+**Prepare repository contribution process**
 
 **Develop dev hub wire-frame**
 

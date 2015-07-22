@@ -73,7 +73,12 @@ The API supports `count` on date fields, which produces a timeseries at the gran
 
 ## Contracts
 
-**Example API Call**
+### Data Downloads
+[All 2015 Contracts](https://s3.amazonaws.com/data-act-demo/contract_all_2015.csv)
+
+
+### Example API Call
+
 
 ```
 GET http://ec2-52-3-62-16.compute-1.amazonaws.com/contract?count=maj_agency_cat

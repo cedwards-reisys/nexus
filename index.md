@@ -81,7 +81,7 @@ The API supports `count` on date fields, which produces a timeseries at the gran
 
 
 ```
-GET http://ec2-52-3-62-16.compute-1.amazonaws.com/contract?count=maj_agency_cat
+GET http://ec2-52-6-163-137.compute-1.amazonaws.com/contract?count=maj_agency_cat
 ```
 
 {::nomarkdown}
@@ -98,7 +98,7 @@ GET http://ec2-52-3-62-16.compute-1.amazonaws.com/contract?count=maj_agency_cat
 <script type="text/javascript">
 $(function() {
 
-    $.get('http://ec2-52-3-62-16.compute-1.amazonaws.com/contract?count=maj_agency_cat',function(data,textStatus, jqXHR){
+    $.get('http://ec2-52-6-163-137.compute-1.amazonaws.com/contract?count=maj_agency_cat',function(data,textStatus, jqXHR){
         
         printTable(data.data);
     

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nexus Developer Hub
+title: Developer Hub
 tagline: API Documentaion and More!
 ---
 {% include JB/setup %}

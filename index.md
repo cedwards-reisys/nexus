@@ -57,7 +57,7 @@ For exact matches, use double quotation marks `" "` around the words. For exampl
 
 To group several terms together, use parentheses `(` `)`. For example, `(maj_agency_cat:DOD+DOJ+DHS)`. Terms separated by plus signs `+` are treated as in a boolean OR.
 
-To join terms as in a boolean AND, use the term `+AND+`. For example, `(maj_agency_cat:DOD+DOJ+DHS)+AND+localgovernmentflag:N` requires that *any* of the drug names match *and* that the field `localgovernmentflag` also match.
+To join terms as in a boolean AND, use the term `+AND+`. For example, `(maj_agency_cat:DOD+DOJ+DHS)+AND+localgovernmentflag:N` requires that *any* of the agency names match *and* that the field `localgovernmentflag` also match.
 
 #### Dates and ranges
 
